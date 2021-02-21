@@ -9,6 +9,7 @@
 # -Added Local access
 # -Fixed Bugs with Paramaters and arguments
 # -Alpha loading bar implmented
+# -Testing Scripts on Windows Side
 
 # The Goals
 # Drop a Database 'Example';
