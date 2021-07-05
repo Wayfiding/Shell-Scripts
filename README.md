@@ -20,28 +20,31 @@
 </p>
 
 > Here gonna be update some Script using Bash
+## How to use
 
-### 🏠 [Homepage](Teste)
+Choose a project and click, you will be redirect to the proper repository folder, there you will find another README explaining how to use the project and test on your Computer.
 
-### ✨ [Demo](Teste)
 
-## Install
+### **Pick just one folder**
+If you want just one folder from this repository you can just click on the folder that you want or in Table of Content and there you gonna find a Readme explaining how to download just that folder. 
+
+Or just follow this steps :
+
+1. Click on the folder;
+2. Copy the url from your browser;
+3. Replace the 'tree/main' or 'tree/master' with trunk;
+
+Example: 
+> https://github.com/User/somerepo/tree/main/folderyouwant
+ 
+> https://github.com/User/somerepo/trunk/folderyouwant 
+
+4.Go to the command Line and just grab the folder with SVN
 
 ```sh
-Teste
+    svn checkout https://github.com/User/somerepo/trunk/folderyouwant 
 ```
 
-## Usage
-
-```sh
-Teste
-```
-
-## Run tests
-
-```sh
-Teste
-```
 
 ## Author
 
