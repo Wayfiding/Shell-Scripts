@@ -67,10 +67,9 @@ secure() {
 
   #echo 'Acessing the Database without SSH'
   else
-    #l=
+    
     eval "${@}"
-    #echo "$l"
-    #exec "$l" 
+    
   fi
 
 }
