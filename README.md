@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Shell-Script 👋</h1>
 
 ![home](./resources/Logo.png)
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-LaunchBase-blue.svg?cacheSeconds=2592000" />
   <a href="Teste" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
@@ -9,9 +9,7 @@
   <a href="Teste" target="_blank">
     <img alt="License: Teste" src="https://img.shields.io/badge/License-Teste-yellow.svg" />
   </a>
-  <a href="https://twitter.com/Teste" target="_blank">
-    <img alt="Twitter: Teste" src="https://img.shields.io/twitter/follow/Teste.svg?style=social" />
-  </a>
+  
 </p>
 
 <p align="center">
