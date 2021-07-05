@@ -1,4 +1,6 @@
 <h1 align="center">Welcome to Shell-Script 👋</h1>
+
+![home](./resources/Logo.png)
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-LaunchBase-blue.svg?cacheSeconds=2592000" />
   <a href="Teste" target="_blank">
@@ -12,7 +14,14 @@
   </a>
 </p>
 
-> Teste
+<p align="center">
+  <a href="#how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
+
+> Here gonna be update some Script using Bash
 
 ### 🏠 [Homepage](Teste)
 
@@ -38,25 +47,23 @@ Teste
 
 ## Author
 
-👤 **Alberto Júnior**
+👤 **Alberto Junior**
 
-* Website: Teste
-* Twitter: [@Teste](https://twitter.com/Teste)
-* Github: [@Wayfiding](https://github.com/Wayfiding)
-* LinkedIn: [@Teste](https://linkedin.com/in/Teste)
+* Github: [Alberto Júnior](https://github.com/wayfiding)
+* LinkedIn: [Alberto Souza](https://linkedin.com/in/alberto-souza)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](Teste). You can also take a look at the [contributing guide](Teste).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](Teste). 
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
 ## 📝 License
-
 Copyright © 2021 [Alberto Júnior](https://github.com/Wayfiding).<br />
-This project is [Teste](Teste) licensed.
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
