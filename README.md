@@ -7,7 +7,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="Teste" target="_blank">
-    <img alt="License: Teste" src="https://img.shields.io/badge/License-Teste-yellow.svg" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   
 </p>
