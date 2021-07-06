@@ -44,7 +44,12 @@ Example:
 ```sh
     svn checkout https://github.com/User/somerepo/trunk/folderyouwant 
 ```
+## Technologies
 
+On this repository you will find the following techonolgies been used.
+- Bash
+- Visual Studio Code
+  
 
 ## Author
 
