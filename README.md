@@ -19,7 +19,20 @@
   <a href="#-license">License</a>
 </p>
 
+# About 
+
 > Here gonna be update some Script using Bash
+
+
+# Table of Contents
+
+| Projects  |     Links     | 
+|:----------|:-------------:|
+|Routines/MySQL | [Routines/MySQL](https://github.com/Wayfiding/Shell-Scripts/tree/main/Routines/MySQL) | 
+|Routines/Servers | [Routines/MySQL](https://github.com/Wayfiding/Shell-Scripts/tree/main/Routines/Servers) | 
+
+
+
 ## How to use
 
 Choose a project and click, you will be redirect to the proper repository folder, there you will find another README explaining how to use the project and test on your Computer.
