@@ -29,7 +29,7 @@
 | Projects  |     Links     | 
 |:----------|:-------------:|
 |Routines/MySQL | [Routines/MySQL](https://github.com/Wayfiding/Shell-Scripts/tree/main/Routines/MySQL) | 
-|Routines/Servers | [Routines/MySQL](https://github.com/Wayfiding/Shell-Scripts/tree/main/Routines/Servers) | 
+|Routines/Servers | [Routines/Servers](https://github.com/Wayfiding/Shell-Scripts/tree/main/Routines/Servers) | 
 
 
 
