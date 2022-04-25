@@ -19,6 +19,14 @@
   <a href="#-license">License</a>
 </p>
 
+
+<div align="center">
+Languages:
+
+[Portuguese :brazil:](README-ptbr.md)
+
+</div>
+
 # About 
 
 > Here gonna be update some Script using Bash

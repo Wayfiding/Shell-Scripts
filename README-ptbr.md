@@ -19,6 +19,14 @@
   <a href="#-license">Licença</a>
 </p>
 
+<div align="center">
+Linguas:
+
+[English :us:](README.md)
+
+</div>
+
+
 # Sobre
 
 > Aqui será atualizado alguns Scripts usando Bash 
